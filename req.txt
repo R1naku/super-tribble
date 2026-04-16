@@ -1,2 +1,2 @@
 cryptography
-tqdm
+argon2-cffi
